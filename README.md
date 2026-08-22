@@ -111,7 +111,7 @@ python --version
 Clone this repository using Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/gesture-control-presenter.git
+https://github.com/Ashmita-bit/gesture-control-presenter.git
 ```
 
 Move into the project directory:
