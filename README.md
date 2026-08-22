@@ -120,7 +120,7 @@ Move into the project directory:
 cd gesture-control-presenter
 ```
 
-> Replace `YOUR-USERNAME` with your GitHub username.
+> Replace `Ashmita-bit` with your GitHub username.
 
 ---
 
